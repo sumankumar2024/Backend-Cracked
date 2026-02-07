@@ -1,0 +1,7 @@
+{
+  "name": "l3-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
